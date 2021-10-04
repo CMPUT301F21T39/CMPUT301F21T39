@@ -4,6 +4,7 @@ public class Shape
 {
     private int x;
     private int y;
+    String colour = "green";
 
     Shape (int x, int y)
     {
